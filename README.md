@@ -17,8 +17,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [GitHub URL]()
-- Live Site URL: [Netlify Site]()
+- Solution URL: [GitHub URL](https://github.com/elameendaiyabu/Testimonials-Grid-Site.git)
+- Live Site URL: [Netlify Site](https://testimonial-grid-site1.netlify.app/)
 
 ### Screenshot
 
