@@ -88,7 +88,7 @@ div p {
   background-color: hsl(219, 29%, 14%);
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 750px) {
   main {
     padding: 20px;
   }
