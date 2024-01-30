@@ -96,7 +96,19 @@ div p {
     grid-column: 1 / 5;
     background-color: hsl(263, 55%, 52%);
     grid-auto-rows: 500px;
+    /* isolation: isolate;
+    position: relative; */
   }
+  /* 
+Tried to add the quotation picture in the background of first card
+  #daniel {
+    content: url("./assets/bg-pattern-quotation.svg");
+
+    position: absolute;
+    top: 0;
+    right: 1%;  Adjust this according to your preferences. 
+    z-index: -1;
+  } */
 
   #jonathan {
     grid-column: 1 / 5;
